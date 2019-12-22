@@ -1,0 +1,25 @@
+$mail-color: red;
+$accent-color: yellow;
+$main-color-dark: brown;
+
+
+
+
+.wrapper {
+    background: red;
+    .child {
+        border: 1px solid yellow;
+    }
+    &-dark {
+        background: brown;
+    }
+}
+
+
+.child {
+    border: 1px solid green;
+}
+
+//.container .child {
+//    border: 1px solid yellow;
+//}
