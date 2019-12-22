@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack:///./src/lesson_5/lesson_5.scss"],"names":[],"mappings":"AAAA,SAAS,eAAe,gBAAgB,wBAAwB,cAAc,iBAAiB,OAAO","file":"lesson_5.css","sourcesContent":[".wrapper{background:red}.wrapper .child{border:1px solid yellow}.wrapper-dark{background:brown}.child{border:1px solid green}\n"],"sourceRoot":""}
